@@ -1,0 +1,8 @@
+{
+  "name": "image-server",
+  "description": "serves images",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::139727613674:role/image-server_lambda_function",
+  "environment": {}
+}
